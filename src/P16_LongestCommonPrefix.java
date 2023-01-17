@@ -1,6 +1,5 @@
-package Programs;
 
-public class P8_LongestCommonPrefix {
+public class P16_LongestCommonPrefix {
      
     public String longestCommonPrefix(String[] arr){
         if(arr.length ==0) return "";

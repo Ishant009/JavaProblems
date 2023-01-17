@@ -1,4 +1,3 @@
-package Programs;
 
 public class P8_LongestCommonPrefix {
      

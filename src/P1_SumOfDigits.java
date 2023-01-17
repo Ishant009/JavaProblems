@@ -1,4 +1,3 @@
-package Programs;
 public class P1_SumOfDigits {
 
     public int sumOfDigits(int number){

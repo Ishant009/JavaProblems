@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P4_FloydTriagnle {
+public class P7_FloydTriagnle {
 
     public static void floydsTriangle(int r){
             int k=1;
@@ -21,7 +21,7 @@ public class P4_FloydTriagnle {
         public static void main(String[] args) {
             in = new Scanner(System.in);
             int r =  in.nextInt();
-            P4_FloydTriagnle.floydsTriangle(r);
+            P7_FloydTriagnle.floydsTriangle(r);
         }
     }
 

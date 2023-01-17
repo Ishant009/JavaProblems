@@ -1,8 +1,7 @@
-package Programs;
 
 import java.util.Arrays;
 
-public class P7_ReverseWords {
+public class P15_ReverseWords {
 
     String reverseWords(String S)
     {

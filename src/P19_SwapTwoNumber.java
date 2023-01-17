@@ -1,4 +1,4 @@
-public class P1_SwapTwoNumber {
+public class P19_SwapTwoNumber {
 
     public static String swapNumber(int n1, int n2) {
         String swap="";

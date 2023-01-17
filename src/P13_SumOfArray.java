@@ -1,6 +1,5 @@
-package Programs;
 
-public class P3_SumOfArray {
+public class P13_SumOfArray {
 
     public int sumOfArray(int[] arr){
         int sum=0;

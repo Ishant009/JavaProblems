@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class P6_MaxPathSum_Main {
+public class P12_MaxPathSum_Main {
 
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
@@ -14,7 +14,7 @@ public class P6_MaxPathSum_Main {
                 matrix[i][j]= Integer.parseInt(row[j]);
             }
         }
-        System.out.println(P6_MaxPathSum.maxSum(matrix));
+        System.out.println(P12_MaxPathSum.maxSum(matrix));
        int[] arr= new int[]{1,9,2,5,7,4,};
         Arrays.sort(arr,0,3);
         System.out.println(Arrays.toString(arr));

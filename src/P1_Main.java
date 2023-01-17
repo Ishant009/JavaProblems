@@ -12,7 +12,7 @@ public class P1_Main {
         List<String> inputData= Arrays.stream(inputString.split(",")).collect(Collectors.toList());
         int n1= Integer.parseInt(inputData.get(0));
         int n2= Integer.parseInt((inputData.get(1)));
-        String swap= P1_SwapTwoNumber.swapNumber(n1,n2);
+        String swap= P19_SwapTwoNumber.swapNumber(n1,n2);
         System.out.println(swap);
     }
 }

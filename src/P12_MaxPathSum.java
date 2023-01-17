@@ -1,4 +1,4 @@
-public class P6_MaxPathSum {
+public class P12_MaxPathSum {
 
     public static int maxSum(int[][] matrix) {
 

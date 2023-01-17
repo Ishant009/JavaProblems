@@ -1,6 +1,5 @@
-package Programs;
 
-public class P2_PalindromeString {
+public class P20_PalindromeString {
 
     public boolean palindrome(String str){
         int i=0;
